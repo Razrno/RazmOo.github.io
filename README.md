@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Marins-Pompiers de Marseille</title>
+  <style>
+    /* ton CSS ici */
+  </style>
+</head>
+<body>
+
 <style>
 /* ====== HEADER PRINCIPAL ====== */
 .mpm-header {
@@ -138,3 +150,7 @@
     <li><a href="#">Contactez-nous</a></li>
   </ul>
 </nav>
+
+
+</body>
+</html>
