@@ -96,14 +96,14 @@
 <header class="mpm-header">
   <div class="mpm-left">
     <a href="https://postimages.org/" target="_blank">
-      <img src="https://i.postimg.cc/JzG0V9nM/Logo-18-112.png" border="0" alt="Logo 18 112">
+      <img src='https://i.postimg.cc/JzG0V9nM/Logo-18-112.png' border='0' alt='Logo-18-112'></a>
     </a>
     <span>Marins-Pompiers de Marseille</span>
   </div>
 
   <div class="mpm-center">
     <a href="https://postimages.org/" target="_blank">
-      <img src="https://i.postimg.cc/28LzK2DJ/logo-mpm.png" border="0" alt="Logo MPM">
+      <img src='https://i.postimg.cc/MTyb0c20/logo-bmpm-blanc.png' border='0' alt='logo-bmpm-blanc'></a>
     </a>
   </div>
 
