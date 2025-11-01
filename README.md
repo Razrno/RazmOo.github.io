@@ -98,9 +98,9 @@
 <!-- ====== HEADER ====== -->
 <div class="mpm-header">
   <div class="mpm-left">
-    <img src="file:///C:/Users/Razmo/Pictures/Logo%2018_112.png">
+    <img src="https://image2url.com/images/1762025496063-0ef24144-4fd1-4b80-b373-44888bc70f56.png">
     <span>18</span>
-    <img src="file:///C:/Users/Razmo/Pictures/Logo%2018_112.png">
+    <img src="https://image2url.com/images/1762025496063-0ef24144-4fd1-4b80-b373-44888bc70f56.png">
     <span>112</span>
   </div>
 
