@@ -98,9 +98,9 @@
 <!-- ====== HEADER ====== -->
 <div class="mpm-header">
   <div class="mpm-left">
-    <img src="https://i.postimg.cc/JzG0V9nM/Logo-18-112.png">
+    <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/JzG0V9nM/Logo-18-112.png' border='0' alt='Logo-18-112'></a>
     <span>18</span>
-    <img src="https://i.postimg.cc/JzG0V9nM/Logo-18-112.png">
+    <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/JzG0V9nM/Logo-18-112.png' border='0' alt='Logo-18-112'></a>
     <span>112</span>
   </div>
 
