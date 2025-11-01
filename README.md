@@ -98,9 +98,9 @@
 <!-- ====== HEADER ====== -->
 <div class="mpm-header">
   <div class="mpm-left">
-    <img src="https://cdn-icons-png.flaticon.com/512/5973/5973800.png" alt="phone">
+    <img src="file:///C:/Users/Razmo/Pictures/Logo%2018_112.png">
     <span>18</span>
-    <img src="https://cdn-icons-png.flaticon.com/512/5973/5973800.png" alt="phone">
+    <img src="file:///C:/Users/Razmo/Pictures/Logo%2018_112.png">
     <span>112</span>
   </div>
 
