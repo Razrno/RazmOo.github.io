@@ -105,7 +105,7 @@
   </div>
 
   <div class="mpm-center">
-    <img src="https://www.marinspompiersdemarseille.com/sites/default/files/logo-bmpm-blanc.png" alt="Marins-Pompiers de Marseille">
+    <img src="https://imgur.com/a/RZhw5Ci" alt="Marins-Pompiers de Marseille">
   </div>
 
   <div class="mpm-right">
