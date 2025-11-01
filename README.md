@@ -98,9 +98,9 @@
 <!-- ====== HEADER ====== -->
 <div class="mpm-header">
   <div class="mpm-left">
-    <img src="[https://image2url.com/images/1762025496063-0ef24144-4fd1-4b80-b373-44888bc70f56.png](https://image2url.com/images/1762025496063-0ef24144-4fd1-4b80-b373-44888bc70f56.png)">
+    <img src="https://image2url.com/images/1762025496063-0ef24144-4fd1-4b80-b373-44888bc70f56.">
     <span>18</span>
-    <img src="[https://image2url.com/images/1762025496063-0ef24144-4fd1-4b80-b373-44888bc70f56.png](https://image2url.com/images/1762025496063-0ef24144-4fd1-4b80-b373-44888bc70f56.png)">
+    <img src="https://image2url.com/images/1762025496063-0ef24144-4fd1-4b80-b373-44888bc70f56.">
     <span>112</span>
   </div>
 
