@@ -1,42 +1,60 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-  <meta charset="UTF-8">
-  <title>Bataillon RP – Accueil</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="styles/styles.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Marins-Pompiers de Marseille</title>
+<style>
+body { margin:0; font-family: Arial, sans-serif; background:#0b1229; color:white; }
+header { display:flex; align-items:center; justify-content:space-between; padding:15px 40px; }
+.stats { display:flex; gap:20px; font-size:18px; }
+.logo img { height:80px; }
+nav { display:flex; gap:25px; font-size:16px; margin-top:10px; justify-content:center; }
+.banner { background:url('firefighters.jpg') center/cover no-repeat; height:350px; display:flex; align-items:center; justify-content:center; }
+.icon-section { background:white; color:black; display:flex; justify-content:space-around; padding:40px 0; }
+.icon-box { text-align:center; }
+</style>
 </head>
 <body>
-
 <header>
-  <nav>
-    <ul>
-      <li><a href="index.html">Accueil</a></li>
-      <li><a href="decouvrir.html">Découvrir</a></li>
-      <li><a href="actualites.html">Actualités</a></li>
-      <li><a href="recrutement.html">Rejoignez‑nous</a></li>
-      <li><a href="contact.html">Contact</a></li>
-    </ul>
-  </nav>
+<div class="stats">
+<div>🔥 18</div>
+<div>🚨 112</div>
+</div>
+
+
+<div class="logo">
+<img src="logo-bmpm.png" alt="Logo BMPM">
+</div>
+
+
+<div class="social">
+🌐 📸 🐦 ▶️ 💼
+</div>
 </header>
 
-<main>
-  <section class="stats">
-    <div class="stat">
-      <span class="number">324</span>
-      <span class="label">missions RP</span>
-    </div>
-    <div class="stat">
-      <span class="number">45</span>
-      <span class="label">membres RP</span>
-    </div>
-  </section>
-</main>
 
-<footer>
-  <p>© 2025 Bataillon RP – Tout droit réservé | Coordonnées RP fictives</p>
-</footer>
+<nav>
+<a href="#">Découvrir l'unité</a>
+<a href="#">Actualités</a>
+<a href="#">Conseils</a>
+<a href="#">Rejoignez-nous</a>
+<a href="#">Contactez-nous</a>
+</nav>
 
-<script src="scripts/script.js"></script>
+
+<div class="banner"></div>
+
+
+<section class="icon-section">
+<div class="icon-box">❤️<br>Prévention</div>
+<div class="icon-box">🔥<br>Actualités</div>
+<div class="icon-box">⚓<br>Découvrir l'unité</div>
+<div class="icon-box">📋<br>Formations</div>
+<div class="icon-box">🪖<br>Rejoignez-nous</div>
+<div class="icon-box">📩<br>Contactez-nous</div>
+</section>
+
+
 </body>
 </html>
